@@ -39,13 +39,3 @@ Operations, Logistics & Biotechnology/Agriculture
 
 * LAN (Local Area Network)
 * WAN (Wide Area Network)
-
-#### Key Takeaway
-
-I created my first learning environment, practiced terminal navigation, and learned the difference between LAN and WAN networks.
-
-## Next Steps
-
-* Learn Git basics
-* Understand IP addresses
-* Connect local files to GitHub
